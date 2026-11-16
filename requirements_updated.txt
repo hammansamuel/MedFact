@@ -2,7 +2,7 @@
 # Original project was for Python 2.7, these are modernized versions
 
 # Core NLP libraries
-nltk>=3.8.1
+nltk>=3.10.4
 textblob>=0.17.1
 spacy>=3.7.0
 
